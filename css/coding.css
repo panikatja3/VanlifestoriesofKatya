@@ -1,0 +1,26 @@
+body{
+	background-color: lightblue;
+}
+h1{
+		font-size: 42px;
+		color: indigo;
+	}
+
+	h2{
+		font-style: bold;
+		font-size: 25px;
+		color: teal;
+	}
+
+	.big{
+		font-size: 60px;
+		font-style: italic;
+	}
+
+	.uppercase{
+		text-transform: uppercase;
+	}
+
+	span{
+		color: green;
+	}
